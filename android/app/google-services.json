@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1059217254292",
+    "firebase_url": "https://iot2024-c31d1-default-rtdb.firebaseio.com",
+    "project_id": "iot2024-c31d1",
+    "storage_bucket": "iot2024-c31d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059217254292:android:4f62db5b7ecef45a629181",
+        "android_client_info": {
+          "package_name": "dev.ericamila.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bWr1rJAmBmUhR66Pbbnj4wocw16T4n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059217254292:android:9cdaf986aabba639629181",
+        "android_client_info": {
+          "package_name": "dev.ericamila.iot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bWr1rJAmBmUhR66Pbbnj4wocw16T4n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
