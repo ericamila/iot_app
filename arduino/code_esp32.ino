@@ -52,7 +52,6 @@ void setup() {
     signupOK = true;
   } else {
     Serial.printf("%s\n", config.signer.signupError.message.c_str());
-    Serial.println("AIzaSyA4bWr1rJAmBmUhR66Pbbnj4wocw16T4n8");
   }
 
 
